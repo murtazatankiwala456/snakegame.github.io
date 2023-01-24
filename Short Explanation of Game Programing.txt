@@ -1,0 +1,12 @@
+As this game is quite difficult for beginners,I try to make it explain the basic logic behind it.
+
+1)first you have to create board in the body and make it grid with same size of small columns and rows.
+2)then you have to design it and after that grab varaiables and requestanimatedframe by setting ctime with 1/2 of speed as given in code.
+3)then we create snake head and food by using x and y coordinates the render it in board
+4)create switch statement of arrow keys,to grab the x and y coordinates.
+5)when food and  snake corordinates matches the food will generate random cordinates and head increase one segment on it's negetive for loop array.
+6)when the segment cordinates matches or its crosses number of rows (in this 18),the game will be over  and requeststanimateframe recalls to start again.
+
+its a quite difficult for beginners as it require maths calculation,but it clears many concepts with it.I also copy code for mobile device and paste it.But the best experience in only with keyboard keys.
+
+thank you!
